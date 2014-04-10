@@ -1,15 +1,14 @@
-DTraining
-=========
+#DTraining
 Training D language project.
 
 
 
-## Prepare Run
+### Prepare Run
 [Download compiler](http://dlang.org/download.html)
 
 
 
-## Run (Sample)
+### Run (Sample)
 ```
 $ git clone this
 $ cd DTraining
